@@ -1,0 +1,53 @@
+.form-input {
+  box-sizing: border-box;
+  background-color: white;
+  width: 650px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.input-first {
+  font-weight: bold;
+  margin: 1rem;
+  width: 100%;
+}
+
+.input-first label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.input-first input {
+  width: 95%;
+}
+
+.input-second {
+  font-weight: bold;
+  margin: 1rem;
+  width: 100%;
+}
+
+.input-second label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.input-second input {
+  width: 95%;
+}
+
+#btn {
+  background-color: purple;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  height: 2rem;
+  text-align: center;
+  margin-left: 1rem;
+  margin-bottom: 20px;
+}
+
+#btn:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.display-user {
+  margin-top: 2rem;
+  box-sizing: border-box;
+  background-color: white;
+  width: 650px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
